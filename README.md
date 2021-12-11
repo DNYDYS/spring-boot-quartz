@@ -1,6 +1,8 @@
 # spring-boot-demo-task-quartz
  Spring Boot 集成 Quartz 定时任务，并实现对定时任务的管理，包括新增定时任务，删除定时任务，暂停定时任务，恢复定时任务，修改定时任务启动时间，以及定时任务列表查询。
 
+文章地址：https://blog.csdn.net/weixin_42254034/article/details/121881897
+
 ## 后端
 
 ### 初始化
